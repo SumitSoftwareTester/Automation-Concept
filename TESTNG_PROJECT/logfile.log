@@ -1,0 +1,38 @@
+2026-04-15 22:31:59,712 INFO  [Log] Application Open 
+2026-04-15 22:32:01,894 INFO  [Log] Login into Application 
+2026-04-15 22:32:06,068 INFO  [Log] Logout from Application 
+2026-04-15 22:32:06,441 INFO  [Log] Application Closed 
+2026-04-15 22:43:20,664 INFO  [Log] Application Open 
+2026-04-15 22:43:21,258 INFO  [Log] Invalid Login Data 
+2026-04-15 22:43:21,456 INFO  [Log] Application Closed 
+2026-04-15 22:44:35,630 INFO  [Log] Application Open 
+2026-04-15 22:44:36,418 INFO  [Log] Invalid Login Data 
+2026-04-15 22:44:36,711 INFO  [Log] Application Closed 
+2026-04-15 22:45:11,695 INFO  [Log] Application Open 
+2026-04-15 22:45:12,296 INFO  [Log] Invalid Login Data 
+2026-04-15 22:45:12,494 INFO  [Log] Application Closed 
+2026-04-15 22:46:25,721 INFO  [Log] Application Open 
+2026-04-15 22:46:26,444 INFO  [Log] Login into Application 
+2026-04-15 22:46:30,576 INFO  [Log] Entering into the Frame 
+2026-04-15 22:46:30,599 INFO  [Log] Page needs to scroll 
+2026-04-15 22:46:42,019 INFO  [Log] Work Experience has been reset Successfully 
+2026-04-15 22:46:42,169 INFO  [Log] Logout from Application 
+2026-04-15 22:46:42,500 INFO  [Log] Application Closed 
+2026-04-16 21:37:43,328 INFO  [Log] Application Open 
+2026-04-16 21:37:55,057 INFO  [Log] Login into Application 
+2026-04-16 22:33:56,945 INFO  [Log] Application Open 
+2026-04-16 22:34:18,899 INFO  [Log] Login into Application 
+2026-04-16 22:34:23,140 INFO  [Log] Logout from Application 
+2026-04-16 22:34:23,408 INFO  [Log] Application Closed 
+2026-04-16 22:34:53,952 INFO  [Log] Application Open 
+2026-04-16 22:34:54,480 INFO  [Log] Login into Application 
+2026-04-16 22:34:58,766 INFO  [Log] Logout from Application 
+2026-04-16 22:34:59,170 INFO  [Log] Application Closed 
+2026-04-17 09:50:40,366 INFO  [Log] Application Open 
+2026-04-17 09:50:40,985 INFO  [Log] Login into Application 
+2026-04-17 09:50:45,204 INFO  [Log] Logout from Application 
+2026-04-17 09:50:45,306 INFO  [Log] Application Closed 
+2026-04-17 09:52:33,571 INFO  [Log] Application Open 
+2026-04-17 09:52:54,699 INFO  [Log] Login into Application 
+2026-04-17 09:52:59,067 INFO  [Log] Logout from Application 
+2026-04-17 09:52:59,319 INFO  [Log] Application Closed 
